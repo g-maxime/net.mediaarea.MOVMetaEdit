@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright 2016-2018 MediaArea.net <info@mediaarea.net> -->
+<!-- Copyright 2016-2024 MediaArea.net <info@mediaarea.net> -->
 <component type="desktop">
   <id type="desktop">net.mediaarea.MOVMetaEdit.desktop</id>
+  <launchable type="desktop-id">net.mediaarea.MOVMetaEdit.desktop</launchable>
   <metadata_license>CC0</metadata_license>
   <project_license>MIT</project_license>
   <name>MOV MetaEdit</name>
@@ -48,6 +49,7 @@
   <update_contact>info@mediaarea.net</update_contact>
   <developer_name>MediaArea.net SARL</developer_name>
   <releases>
+    <release version="24.06" date="2024-06-03" />
     <release version="17.10.1" date="2017-10-23" />
   </releases>
 </component>

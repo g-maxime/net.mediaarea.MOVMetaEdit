@@ -21,8 +21,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://mediaarea.net/download/source/movmetaedit/17.10.1/movmetaedit_17.10.1.tar.xz",
-          "sha256": "d18ca11980356edf83388ac680a108b77d25b6605125bf7811d4fc5575ec4e10"
+          "url": "https://mediaarea.net/download/source/movmetaedit/24.06/movmetaedit_24.06.tar.xz",
+          "sha256": "69bfbf3b63cf821a2eb605bf6ba3709c52cccd72bb934b07f0a36dc27fc1d8b6"
         },
         {
             "type": "file",
